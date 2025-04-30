@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-04T06:51:48Z" name="Default suite" finished-at="2025-01-04T06:51:52Z" duration-ms="3947">
+    <groups>
+    </groups>
+    <test started-at="2025-01-04T06:51:48Z" name="Default test" finished-at="2025-01-04T06:51:52Z" duration-ms="3947">
+      <class name="com.selenium.AssignmentL2_3.AssignmentThree">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.selenium.AssignmentL2_3.AssignmentThree@1afdd473]" started-at="2025-01-04T00:51:48Z" name="launchURL" finished-at="2025-01-04T00:51:52Z" duration-ms="3511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="guru99()[pri:0, instance:com.selenium.AssignmentL2_3.AssignmentThree@1afdd473]" started-at="2025-01-04T00:51:52Z" name="guru99" finished-at="2025-01-04T00:51:52Z" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guru99 -->
+        <test-method is-config="true" signature="tearDownURL()[pri:0, instance:com.selenium.AssignmentL2_3.AssignmentThree@1afdd473]" started-at="2025-01-04T00:51:52Z" name="tearDownURL" finished-at="2025-01-04T00:51:52Z" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownURL -->
+      </class> <!-- com.selenium.AssignmentL2_3.AssignmentThree -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -8,6 +8,6 @@
 			  <include name="guru99"/>  
 		  </methods>
 		  </class>
-    </classes>
+    </classes> <!-- Classes -->
   </test> <!-- Test -->
 </suite> <!-- Suite -->
